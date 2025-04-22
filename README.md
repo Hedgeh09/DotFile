@@ -3,13 +3,13 @@
 ## AutoHotkey
 
 - **switcher**  
-  Mimics the Mac keyboard behavior for switching capital letters.  
-  - **Short press:** Toggle Caps Lock.  
-  - **Long press:** Switch input method.
+  仿照 Mac 键盘切换大小写的行为。  
+  - **短按：** 切换大小写（Caps Lock）  
+  - **长按：** 切换输入法
 
 ## Firefox
 
 - **userChrome.css**  
-  Custom UI configuration file for Firefox.  
-  To locate the correct folder, visit `about:support` in Firefox and check the "Profile Folder" section.
+  Firefox UI 个性化配置文件。  
+  在 Firefox 地址栏输入 `about:support`，找到 "配置文件夹" 以确定文件位置。
 
