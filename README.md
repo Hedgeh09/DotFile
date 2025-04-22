@@ -1,4 +1,5 @@
 # DotFile
+[English](/README_en.md)
 
 ## AutoHotkey
 
@@ -10,6 +11,6 @@
 ## Firefox
 
 - **userChrome.css**  
-  Firefox UI 个性化配置文件。  
+  Firefox UI 
   在 Firefox 地址栏输入 `about:support`，找到 "配置文件夹" 以确定文件位置。
 
